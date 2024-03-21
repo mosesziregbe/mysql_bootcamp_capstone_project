@@ -54,3 +54,4 @@ Find users who have liked every single photo on the site
  8. We also have a problem with celebrities...
 Find users who have never commented on a photo
 
+Click [here](https://github.com/mosesziregbe/mysql_bootcamp_capstone_project/blob/main/instagram_challenge_solutions.sql) to view the solution to this challenge
