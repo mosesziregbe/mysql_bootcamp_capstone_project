@@ -54,6 +54,3 @@ Find users who have liked every single photo on the site
  8. We also have a problem with celebrities...
 Find users who have never commented on a photo
 
- 9.  We have a small problem with bots on our site...
-Find users who have liked every single photo on the site
-
